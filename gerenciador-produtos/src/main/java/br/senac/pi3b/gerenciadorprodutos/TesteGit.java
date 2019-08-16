@@ -12,6 +12,7 @@ package br.senac.pi3b.gerenciadorprodutos;
 public class TesteGit {
     public static void main(String[] args) {
         System.out.println("Teste de commits");
+        System.out.println("OI ");
     }
             
     
